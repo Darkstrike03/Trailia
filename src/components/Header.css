@@ -1,0 +1,6 @@
+/* Gradient text for brand name */
+.brand-gradient {
+  background: linear-gradient(to right, #9423b0, #c763a9, #f7b42c);
+  
+  -webkit-text-fill-color: transparent;
+}
