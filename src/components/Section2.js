@@ -15,7 +15,7 @@ import FavoriteIcon from '@mui/icons-material/Favorite';
 const latestPosts = [
   {
     id: 1,
-    title: 'Exploring the Hidden Trails of the Alps',
+    title: 'Exploring Hidden Trails of the Alps',
     image: `${process.env.PUBLIC_URL}/sample1.png`,
     views: 324,
     likes: 56,
@@ -122,3 +122,4 @@ export default function Section2() {
     </Box>
   );
 }
+
